@@ -91,10 +91,7 @@ a {
 
    
 }
-a:focus {
-   background: rgb(192, 40, 40);
-   border: none;  
-}
+
 
 .title {
    text-transform: uppercase;
